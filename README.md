@@ -1,12 +1,12 @@
-# 👋 Oi! Meu nome é Maria Clara.
+# Oi! Meu nome é Maria Clara.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na Fatec**.
+🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec**.
 
-Tenho interesse em desenvolvimento de software e estou buscando aprender novas tecnologias e aprimorar meus conhecimentos em programação.
+💻 Estou construindo minha experiência na área de tecnologia por meio de estudos e projetos, com foco em programação e desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
 <div>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css" />
@@ -14,19 +14,11 @@ Tenho interesse em desenvolvimento de software e estou buscando aprender novas t
 
 ---
 
-## Sobre mim
+## Projetos
 
-- 💻 Conhecimentos em Java, Python e C++
-- 🌐 Conhecimentos em HTML e CSS
-- 🧠 Interesse em desenvolvimento de software e tecnologia
+###  Quiz Programadores
 
----
-
-## 📌 Projeto em destaque
-
-### 🎯 Quiz Programadores
-
-Projeto de quiz interativo desenvolvido durante meus estudos de programação.
+Quiz interativo desenvolvido como parte dos meus estudos em programação.
 
 ---
 
