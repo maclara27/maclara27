@@ -1,16 +1,43 @@
-## 💜 Olá, meu nome é Maria Clara!
+# 👋 Oi! Meu nome é Maria Clara.
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas, buscando sempre evoluir.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na Fatec**.
 
-🔭 Estou trabalhando em um projeto de site com informações de pokémons.
+Tenho interesse em desenvolvimento de software e estou buscando aprender novas tecnologias e aprimorar meus conhecimentos em programação.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css" />
+</div>
 
 ---
 
-## 🚀 Minhas Skills
+## Sobre mim
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+- 💻 Conhecimentos em Java, Python e C++
+- 🌐 Conhecimentos em HTML e CSS
+- 🧠 Interesse em desenvolvimento de software e tecnologia
 
 ---
+
+## 📌 Projeto em destaque
+
+### 🎯 Quiz Programadores
+
+Projeto de quiz interativo desenvolvido durante meus estudos de programação.
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://github.com/maclara27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/maria-clara-mf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
