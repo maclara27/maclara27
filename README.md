@@ -18,11 +18,13 @@
 
 ---
 
-## Projetos
+## 📌 Projetos
 
-###  Quiz Programadores
+### [ Quiz Programadores](https://github.com/maclara27/quiz-programadores)
+Quiz interativo desenvolvido como parte dos meus estudos em programação usando HTML e CSS.
 
-Quiz interativo desenvolvido como parte dos meus estudos em programação.
+### [☕ Estudos de Java](https://github.com/maclara27/estudos-java)
+Repositório focado no aprendizado de Java, conceitos fundamentais de sintaxe até Orientação a Objetos avançada.
 
 ---
 
