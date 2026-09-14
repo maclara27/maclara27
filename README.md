@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./konan.gif.gif" alt="Konan Banner" width="600">
+</p>
+
 # Oi! Meu nome é Maria Clara.
 
 🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec**.
