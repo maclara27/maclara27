@@ -23,8 +23,8 @@
 ### [ Quiz Programadores](https://github.com/maclara27/quiz-programadores)
 Quiz interativo desenvolvido como parte dos meus estudos em programação usando HTML e CSS.
 
-### [☕ Estudos de Java](https://github.com/maclara27/estudos-java)
-Repositório focado no aprendizado de Java, conceitos fundamentais de sintaxe até Orientação a Objetos avançada.
+### [🐾 CuidaPet](https://github.com/maclara27/cuidapet)
+Aplicativo mobile-first (PWA) para gestão de saúde e bem-estar de animais de estimação, com carteira de vacinas, guia nutricional e assistente virtual com IA. Desenvolvido com Next.js, TypeScript, Tailwind CSS, ShadCN UI, Supabase e Google Gemini API.
 
 ---
 
