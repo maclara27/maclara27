@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/4bc2c91f49fec891c32062518e7e3968/7bb88bb1363641bb-8a/s540x810/962908bfa2a26f0935747b2b6c01a5ab05751c49.gif" width="600">
+  <img src="https://www.icegif.com/wp-content/uploads/2024/12/cyberpunk-icegif-9.gif" width="600">
 </p>
 
 # Oi! Meu nome é Maria Clara.
