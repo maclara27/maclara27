@@ -12,9 +12,9 @@
 
 ## 🛠️ Tecnologias
 
-<div>
+[<div>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css" />
-</div>
+</div>](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,firebase,supabase,git,github&perline=9)
 
 ---
 
