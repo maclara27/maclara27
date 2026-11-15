@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="[https://www.icegif.com/wp-content/uploads/2024/12/cyberpunk-icegif-9.gif](https://github.com/maclara27/maclara27/blob/main/COOLPIXELGIF_-ezgif.com-added-text.gif)" alt="Banner" width="500" />
+<img src="https://github.com/maclara27/maclara27/blob/main/COOLPIXELGIF_-ezgif.com-added-text.gif" alt="Banner" width="700" />
 
 </div>
 
