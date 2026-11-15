@@ -46,6 +46,12 @@ Quiz interativo desenvolvido como parte dos meus estudos em programação usando
 
 ---
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/maclara27/maclara27/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maclara27)
