@@ -1,63 +1,81 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2E0854" />
-
-</div>
-
+<!-- MasterHead -->
 <div align="center">
-
-<img src="https://www.icegif.com/wp-content/uploads/2024/12/cyberpunk-icegif-9.gif" alt="Banner" width="500" />
-
+  <img width="100%" src="https://github.com/maclara27/maclara27/blob/main/COOLPIXELGIF_-ezgif.com-added-text.gif?raw=true" alt="Maria Clara Banner"/>
 </div>
 
-# Oi! Meu nome é Maria Clara.
+<br>
 
+<!-- Sobre Mim -->
+<img align="left" alt="coding-girl-gif" width="380" src="https://i.pinimg.com/originals/73/ed/4c/73ed4c80d21426e2444d370e187270d3.gif" />
 
-# 💻 Tech Stack:
+<h3 align="left"> Sobre Mim</h3>
+<p>
+   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC Mogi das Cruzes.<br>
+   Atuando com <strong>Monitoramento e Processamento de Dados</strong>.<br>
+   <strong>1º Lugar no Hackathon FATEC Mogi das Cruzes</strong> com o projeto <em>Gestão Verde</em>.<br>
+   Focada em Desenvolvimento Full Stack, Cloud (AWS), Backend (Go/Java) e Dados.<br>
+</p>
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
-[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](#)
+<h3 align="left">🧲 Conecte-se comigo:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/maria-clara-mf" target="_blank">
+    <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  </a>
+</div>
 
----
+<br clear="left"/>
+<br>
 
-## 📌 Projetos
+<!-- Linguagens e Ferramentas -->
+<h3 align="center">💻 Linguagens & Tecnologias</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-### [🌱 Gestão Verde](https://github.com/maclara27/GestaoVerde) 🏆
+<br>
 
-Aplicativo web mobile-first para produtores de hortaliças de Mogi das Cruzes, com relato de pragas por voz, análise com apoio de IA, previsão do tempo e painel de prioridades. Projeto em equipe, **1º lugar no Hackathon da FATEC Mogi das Cruzes (2026)**. Desenvolvido com React, TypeScript, Tailwind CSS, Vite, Express e Firebase.
+<!-- Projetos -->
+<div align="center">
+  <h3> Projetos</h3>
+  <p align="center">
+    <a href="https://github.com/maclara27/gestao-verde">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=maclara27&repo=maclara27%2Fgestao-verde&show_owner=true&theme=tokyonight" alt="Gestão Verde" />
+    </a>
+    <a href="https://github.com/maclara27/cuidapet">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=maclara27&repo=maclara27%2Fcuidapet&show_owner=true&theme=dracula" alt="CuidaPet" />
+    </a>
+    <a href="https://github.com/maclara27/quiz-programadores">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=maclara27&repo=maclara27%2Fquiz-programadores&show_owner=true&theme=material-palenight" alt="Quiz para Programadores" />
+    </a>
+  </p>
+</div>
 
-### [🐾 CuidaPet](https://github.com/maclara27/cuidapet)
+<br><br>
 
-Aplicativo mobile-first (PWA) para gestão de saúde e bem-estar de animais de estimação, com carteira de vacinas, guia nutricional e assistente virtual com IA. Desenvolvido com Next.js, TypeScript, Tailwind CSS, ShadCN UI, Supabase e Google Gemini API.
+<!-- Ending -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/9e/18/8c/9e188c30a388a0073581d2cea5bb1378.gif" alt="Footer Pixel Art GIF" width="100%" />
+</div>
 
-### [Quiz Programadores](https://github.com/maclara27/quiz-programadores)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-Quiz interativo desenvolvido como parte dos meus estudos em programação usando HTML e CSS.
-
----
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maclara27/maclara27/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maclara27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-mf/)
+<p align="center">
+  ✨ Este README foi desenvolvido por <strong>@maclara27</strong>.
+</p>
