@@ -6,9 +6,6 @@
 
 # Oi! Meu nome é Maria Clara.
 
-🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**.
-
----
 
 # 💻 Tech Stack:
 
