@@ -1,10 +1,20 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2E0854" />
-
-<br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2E0854" />
+</div>
 
 <div align="center">
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
+
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b>Maria Clara</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Sou+do+Brasil;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+de+software+em+formação;Seja+bem-vinda!" alt="Typing SVG"/>
 </div>
 
 # Oi! Meu nome é Maria Clara.
