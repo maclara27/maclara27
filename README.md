@@ -1,14 +1,12 @@
 <div align="center">
 
-![Banner](https://www.icegif.com/wp-content/uploads/2024/12/cyberpunk-icegif-9.gif)
+<img src="https://www.icegif.com/wp-content/uploads/2024/12/cyberpunk-icegif-9.gif" alt="Banner" width="500" />
 
 </div>
 
 # Oi! Meu nome é Maria Clara.
 
 🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**.
-
-🏆 Campeã do **Hackathon da FATEC Mogi das Cruzes (2026)**.
 
 💻 Estou construindo minha experiência na área de tecnologia por meio de estudos e projetos, com foco em programação e desenvolvimento de software.
 
