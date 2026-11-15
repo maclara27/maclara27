@@ -1,29 +1,32 @@
 <!-- MasterHead -->
 <div align="center">
-  <img width="100%" src="https://github.com/maclara27/maclara27/blob/main/COOLPIXELGIF_-ezgif.com-added-text.gif?raw=true" alt="Maria Clara Banner"/>
+  <img width="100%" src="./COOLPIXELGIF_-ezgif.com-added-text.gif" alt="Maria Clara Banner"/>
 </div>
 
 <br>
 
-<!-- Sobre Mim -->
-<img align="left" alt="coding-girl-gif" width="380" src="https://i.pinimg.com/originals/73/ed/4c/73ed4c80d21426e2444d370e187270d3.gif" />
+<!-- Sobre Mim (Alinhado com Tabela Invisível) -->
+<table>
+  <tr>
+    <td width="380" align="center">
+      <img src="./girl.gif" alt="Coding Girl" width="360"/>
+    </td>
+    <td>
+      <h3>💫 Sobre Mim</h3>
+      <p>
+        🌱 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC Mogi das Cruzes.<br>
+        ⚡ Focada em Desenvolvimento Full Stack, Cloud (AWS), Backend (Go/Java) e Dados.
+      </p>
+      <h3>🧲 Conecte-se comigo:</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+          <img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left"> Sobre Mim</h3>
-<p>
-   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC Mogi das Cruzes.<br>
-   Atuando com <strong>Monitoramento e Processamento de Dados</strong>.<br>
-   <strong>1º Lugar no Hackathon FATEC Mogi das Cruzes</strong> com o projeto <em>Gestão Verde</em>.<br>
-   Focada em Desenvolvimento Full Stack, Cloud (AWS), Backend (Go/Java) e Dados.<br>
-</p>
-
-<h3 align="left">🧲 Conecte-se comigo:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/maria-clara-mf" target="_blank">
-    <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-  </a>
-</div>
-
-<br clear="left"/>
 <br>
 
 <!-- Linguagens e Ferramentas -->
@@ -53,7 +56,7 @@
 
 <!-- Projetos -->
 <div align="center">
-  <h3> Projetos</h3>
+  <h3>⭐️ Projetos</h3>
   <p align="center">
     <a href="https://github.com/maclara27/gestao-verde">
       <img src="https://github-stats-extended.vercel.app/api/pin?username=maclara27&repo=maclara27%2Fgestao-verde&show_owner=true&theme=tokyonight" alt="Gestão Verde" />
@@ -71,7 +74,7 @@
 
 <!-- Ending -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9e/18/8c/9e188c30a388a0073581d2cea5bb1378.gif" alt="Footer Pixel Art GIF" width="100%" />
+  <img src="./footer.gif" alt="Footer Pixel Art GIF" width="100%" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
