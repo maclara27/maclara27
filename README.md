@@ -1,12 +1,10 @@
 <div data-importer="border">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2E0854" />
 
-</div>
+<br>
 
 <div align="center">
-
-<img src="https://github.com/maclara27/maclara27/blob/main/COOLPIXELGIF_-ezgif.com-added-text.gif" alt="Banner" width="700" />
-
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
 
 # Oi! Meu nome é Maria Clara.
