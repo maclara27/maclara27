@@ -9,15 +9,16 @@
 <div align="center">
   <samp>
       <br>
-      Hi there! I'm <b>Maria Clara</b>
+      Olá! Eu sou a <b>Maria Clara</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Sou+do+Brasil;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+de+software+em+formação;Seja+bem-vinda!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+de+software+em+forma%C3%A7%C3%A3o;Sejam+bem-vindos!" alt="Apresentação animada"/>
 </div>
 
-# Oi! Meu nome é Maria Clara.
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 
 # 💻 Tech Stack:
