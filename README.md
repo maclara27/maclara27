@@ -8,9 +8,6 @@
 
 🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**.
 
-🏆 Campeã do **Hackathon da FATEC Mogi das Cruzes (2026)**.
-
-💻 Estou construindo minha experiência na área de tecnologia por meio de estudos e projetos, com foco em programação e desenvolvimento de software.
 
 ---
 
