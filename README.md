@@ -8,7 +8,6 @@
 
 🎓 Atualmente, curso **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**.
 
-
 ---
 
 # 💻 Tech Stack:
@@ -47,12 +46,6 @@ Aplicativo mobile-first (PWA) para gestão de saúde e bem-estar de animais de e
 ### [Quiz Programadores](https://github.com/maclara27/quiz-programadores)
 
 Quiz interativo desenvolvido como parte dos meus estudos em programação usando HTML e CSS.
-
----
-
-## 📊 Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=maclara27&layout=compact&hide_border=true)](https://github.com/maclara27)
 
 ---
 
